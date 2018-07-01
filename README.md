@@ -21,4 +21,6 @@ Trying out Items in Josh Bloch's book
     Minus: classes without public of protected constructors can't be subclassed
     Minus: hard for programmers to find; mitigate with good names:
             from, of, valueOf, instance, getInstance, create, newInstance, get<Type>, new<Type>
-                            
+            
+## Item 2 - Consider a builder when faced with many constructor parameters
+
